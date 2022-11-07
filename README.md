@@ -1,11 +1,6 @@
 <h2 align="center"><u>LessonUP Spammer/Autojoiner</u></h2>
-<center>
-Your lightweight spammer for your educational needs
-</center>
+<h4 align="center"> <h4>Your lightweight spammer for your educational needs</h4>
 <img src="images/logo.png">
-
-<h4 align="center"> Your lightweight spammer for your educational needs </h4>
-
 <p align="center">
 <br>
     <img src="https://img.shields.io/badge/Author-NoelP-magenta?style=flat-square">
