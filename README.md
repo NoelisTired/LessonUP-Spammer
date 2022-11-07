@@ -1,6 +1,6 @@
 <h2 align="center"><u>LessonUP Spammer/Autojoiner</u></h2>
 <br>
-    <img src="https://img.shields.io/badge/Author-NoelP-magenta?style=flat-square">
+    <img src="https://img.shields.io/badge/Author-NoelP & Sadcat-magenta?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Made%20In-Selenium-green?style=flat-square">
