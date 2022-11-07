@@ -1,8 +1,8 @@
 <h2 align="center"><u>LessonUP Spammer/Autojoiner</u></h2>
 <center>
-<h1>Your lightweight spammer for your educational needs</h1>
-<img src="images/logo.png">
+Your lightweight spammer for your educational needs
 </center>
+<img src="images/logo.png">
 
 <h4 align="center"> Your lightweight spammer for your educational needs </h4>
 
